@@ -1,8 +1,0 @@
-insert b n 0
-insert a n 0
-insert c n 0
-insert d n 0
-insert e n 0
-buy b
-buy c
-sort
