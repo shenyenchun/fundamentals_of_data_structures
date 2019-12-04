@@ -1,0 +1,6 @@
+Book doesn't exist!
+Book GiGi 180
+Book Jacky01 200
+CD Mary 280
+TV Mary 280
+Book Jacky08 220
